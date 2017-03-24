@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- General -->
+    <string name="app_name" translatable="false">WormMark</string>
+
+    <!-- Actions -->
+    <string name="action_settings">Настройки</string>
+    <string name="action_about">О приложении</string>
+
+    <!-- Messages -->
+    <string name="msg_processing">Идет обработка…</string>
+
+    <!-- Books -->
+    <string name="books_title">Книги</string>
+    <string name="button_read">Читать</string>
+    <string name="books_empty_primary">Вы не добавили ни одной книги</string>
+    <string name="books_empty_secondary">Нажмите кнопку для добавления</string>
+
+    <!-- About -->
+    <string name="about_title">О приложении</string>
+    <string name="about_text">Приложение WormMark для конкурса Microsoft Image Cup 2017</string>
+
+</resources>

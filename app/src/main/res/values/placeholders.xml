@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="lorem_ipsum" translatable="false">Lorem Ipsum is simply dummy text of the printing
+        and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever
+        since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
+        type specimen book. It has survived not only five centuries, but also the leap into
+        electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s
+        with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with
+        desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </string>
+
+    <string name="lorem_ipsum_half" translatable="false">Lorem Ipsum is simply dummy text of the printing
+        and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever
+        since the 1500s, when an unknown printer took a galley of type and scrambled it to make a
+        type specimen book.
+    </string>
+
+    <string name="lorem_ipsum_small" translatable="false">Lorem Ipsum is simply dummy text of the printing
+        and typesetting industry.
+    </string>
+
+    <string name="placeholder_book_title" translatable="false">
+        Journey to Ixtlan
+    </string>
+
+    <string name="placeholder_book_description" translatable="false">
+        Journey to Ixtlan is the third book by Carlos Castaneda, published as a work of non-fiction by Simon &amp; Schuster in 1972. It is about an alleged apprenticeship to the Yaqui "shaman," Don Juan.
+    </string>
+
+</resources>
+

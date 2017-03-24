@@ -1,0 +1,28 @@
+import java.lang.Integer;
+
+-- Книги
+
+CREATE TABLE book (
+    _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+      -- Название
+    title TEXT NOT NULL,
+    -- Описание
+    description TEXT
+);
+
+select_all:
+SELECT *
+FROM book;
+
+select_by_id:
+SELECT *
+FROM book
+WHERE _id = ?;
+
+insert_row:
+INSERT INTO book(title, description)
+VALUES (?, ?);
+
+delete_row:
+DELETE FROM book
+WHERE _id = ?;

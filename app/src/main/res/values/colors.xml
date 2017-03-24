@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="body_text_1">#de000000</color>
+    <color name="body_text_2">#8a000000</color>
+    <color name="body_text_3">#60000000</color>
+    <color name="body_text_white">#FFFFFFFF</color>
+    <color name="body_text_disabled">#44000000</color>
+
+    <color name="body_text_1_inverse">#deffffff</color>
+    <color name="body_text_2_inverse">#8affffff</color>
+
+    <color name="body_text_secondary">#9D9D9C</color>
+
+    <color name="divider">#20000000</color>
+
+    <color name="primary">@color/material_purple500</color>
+    <color name="primary_dark">@color/material_purple700</color>
+    <color name="primary_light">@color/material_purple100</color>
+    <color name="accent">@color/material_deeporangeA100</color>
+    <color name="accent_dark">@color/material_deeporangeA200</color>
+
+</resources>
